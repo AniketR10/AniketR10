@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
+  <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=2D3748" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-TanStack%20Router-05122A?style=flat&logo=reactrouter&logoColor=FF4154" alt="TanStack Router" />&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
 
