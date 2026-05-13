@@ -3,7 +3,7 @@
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p style="height: auto !important;">💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp;I’m working and learning more about Agentic AI, Full Stack and Open Source.<br>
-✍️ &nbsp;In my free time, I like to play video games and write blogs on Tech.<br>
+✍️ &nbsp;In my free time, I like to explore mysteries of space and write blogs on Tech.<br>
 💬 &nbsp;Feel free to reach out to me for collaborations or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my <a href="https://www.aniketrawat.com">Portfolio</a> for more details about me. I’m open to feedback and suggestions!</p>
