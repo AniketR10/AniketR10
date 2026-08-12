@@ -8,7 +8,7 @@
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Take a look at my <a href="https://www.aniketrawat.com">Portfolio</a> for more details about me. Always open to feedback and suggestions!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack I have worked on</h3>
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack I have worked on...</h3>
 <p>
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white" alt="Next.js">&nbsp;
