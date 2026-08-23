@@ -1,12 +1,15 @@
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aniket</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p style="height: auto !important;">💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🌱 &nbsp;I’m working and learning more about Agentic AI, Full Stack and Open Source.<br>
-✍️ &nbsp;In my free time, I like to explore mysteries of space and write <a href="https://www.aniketrawat.com/contributions">blogs</a> on Tech.<br>
-💬 &nbsp;Feel free to reach out to me for collaborations or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Take a look at my <a href="https://www.aniketrawat.com">Portfolio</a> for more details about me. Always open to feedback and suggestions!
+<p>
+  🌐 &nbsp;My Portfolio: <a href="https://aniketrawat.com">aniketrawat.com</a><br>
+  🚀 &nbsp;Building <a href="https://iamunemployed.xyz">iamunemployed.xyz</a> (360+ users)<br>
+  🛠️ &nbsp;Core maintainer of <a href="https://screenshot-studio.com">screenshot-studio.com</a> (800+ GitHub stars)<br>
+  🥇 &nbsp;Largest contributor to <a href="https://github.com/Tracer-Cloud/opensre">OpenSRE</a> (22 PRs merged)<br>
+  ✍️ &nbsp;In my free time, I like exploring the mysteries of space and writing <a href="https://www.aniketrawat.com/contributions">blogs</a> about tech.<br>
+  💬 &nbsp;Feel free to reach out for collaborations or just an interesting discussion.<br>
+  ✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
+</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack I have worked on...</h3>
 <p>
@@ -38,7 +41,7 @@
 <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
-
+And a lot more...
 
 <p align="center">
   <a href="https://www.aniketrawat.com">
