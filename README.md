@@ -5,7 +5,7 @@
   🌐 &nbsp;My Portfolio: <a href="https://aniketrawat.com">aniketrawat.com</a><br>
   🚀 &nbsp;Building <a href="https://iamunemployed.xyz">iamunemployed.xyz</a> (380+ users)<br>
   🛠️ &nbsp;Core maintainer of <a href="https://screenshot-studio.com">screenshot-studio.com</a> (1K+ GitHub stars)<br>
-  🥇 &nbsp;Largest contributor to <a href="https://github.com/Tracer-Cloud/opensre">OpenSRE</a> (22 PRs merged)<br>
+  🥇 &nbsp;Largest contributor to <a href="https://github.com/Tracer-Cloud/opensre">OpenSRE</a> (27 PRs merged)<br>
   ✍️ &nbsp;In my free time, I like exploring the mysteries of space and writing <a href="https://www.aniketrawat.com/contributions">blogs</a> about tech.<br>
   💬 &nbsp;Feel free to reach out for collaborations or just an interesting discussion.<br>
   ✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
