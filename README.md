@@ -7,7 +7,7 @@
   🛠️ &nbsp;Core maintainer of <a href="https://screenshot-studio.com">screenshot-studio.com</a> (1K+ GitHub stars, 26K+ MAU)<br>
   🥇 &nbsp;Largest contributor to <a href="https://github.com/Tracer-Cloud/opensre">OpenSRE</a> (29 PRs merged)<br>
   ✍️ &nbsp;In my free time, I like exploring the mysteries of space and writing <a href="https://www.aniketrawat.com/contributions">blogs</a> about tech.<br>
-  💬 &nbsp;Feel free to reach out for collaborations or just an interesting discussion.<br>
+  💬 &nbsp;Feel free to reach out for collaborations or any interesting discussion.<br>
   ✉️ &nbsp;You can shoot me an email at <a href="mailto:aniketrawat826@gmail.com">aniketrawat826@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
